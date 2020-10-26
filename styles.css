@@ -1,0 +1,14 @@
+form {
+    border-radius: 5px;
+    margin: 15px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+a {
+  float: right;
+  color: blue;
+  margin-right: 6px;
+}
